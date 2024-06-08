@@ -1,0 +1,23 @@
+.bg-mynav {
+    background-color: #3372b1;
+    padding: 10px;
+    border-radius:0 0  20px 20px; 
+  }
+  
+  body {
+    font-size: 1.25rem;
+    background-color: #f6f8fa;
+  }
+  
+  td {
+      line-height: 3rem;
+  }
+
+  .img-thumbnail{
+   height: 50%;
+   width: 50%;
+    object-fit: cover;
+  }
+
+
+  
